@@ -2,7 +2,7 @@
 
 1) Map showing Geo Location of tweets
 2) Sources/Devices used to Tweet   ******
-3) Top tweeters - user with most tweets. Friends count - correlation betweeb frequency of tweets and friends count ******
+3) Top tweeters - user with most tweets. Friends count - correlation betweeb frequency of tweets and friends count ****** in LA area
 4) Sort tweets by topic. (politics, space, etc)
 5) Use Hashtags to figure out what type of tweets they are. Most popular Hashtags ####
 6) What day of the week is most popular for tweets. ####
